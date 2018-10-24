@@ -73,6 +73,11 @@ Use the following syntax to delete a file
 
 #### Terminate the process which uses the port you want to use
 ``` kill <PID> ```
+#### Search you command history as you type
+
+```control+R```
+
+Hold down ```control``` and press ```R``` to invoke "reverse-i-search." Type a letter - like s - and you'll get a match for the most recent command in your history that starts with s. Keep typing to narrow your match. When you hit the jackpot, press Enter to execute the suggested command
 
 # iTerm2
 
